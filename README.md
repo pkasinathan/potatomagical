@@ -4,7 +4,7 @@ A simple magic package.
 
 ## Installation
 
-Install via pip: `pip install potatomagical`
+Install via pip: `pip install -i https://pypi.org/project potatomagical`
 
 ## Usage
 
@@ -44,6 +44,4 @@ If everything is okay, upload your package to PyPI.
 twine upload dist/*
 ```
 
-Remember, you'll need to create an account on [PyPI](https://pypi.org/) if you haven't already.
-
-This is a very basic example. Depending on your project, you might need to add more information to `setup.py`, add a `MANIFEST.in` file, etc. Check the [Python Packaging User Guide](https://packaging.python.org/tutorials/packaging-projects/) for more details.
+Remember, you'll need to create an account on [PyPI](https://pypi.org/) if you haven't already. Your package will be uploaded. URL: https://pypi.org/project/potatomagical/0.1
